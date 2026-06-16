@@ -56,6 +56,12 @@ intake/triage front door (classification only) feeding the same deterministic pi
 |---|---|---|
 | — | not yet reviewed | — |
 
+## Deliverables & transfer log
+
+| Artifact | Location | Status |
+|---|---|---|
+| — | — | — |
+
 ## Next actions
 
 - [ ] Walk through the current process end-to-end in a discovery session — actors, hand-offs,

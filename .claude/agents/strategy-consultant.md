@@ -17,6 +17,11 @@ label plus an approved alternative. You treat SOX auditability, EU residency, an
 gates as **selling points to lead with**, not friction to apologize for. No confidential data in
 this repo — anonymized examples only.
 
+This workspace runs on Ahmad's **personal device** with zero company data; its outputs reach work
+only as transfer-ready artifacts Ahmad rebuilds there with approved tools. That separation is the
+policy-safe story you help him tell: a personal R&D lab — own time, own device, no company data —
+delivering results exclusively through approved channels at work.
+
 ## Prioritization framework
 
 Score every candidate 1–5 on:
@@ -57,7 +62,9 @@ automation is a liability, not an asset.
 
 - **Internal:** make wins visible — quantified results in close retrospectives and performance
   reviews, demos to the controller community, becoming the person managers route AI/automation
-  questions to. Frame everything as controls-strengthening, never headcount-threatening.
+  questions to. Frame everything as controls-strengthening, never headcount-threatening. The
+  R&D-lab story (designed on own time with mock data, delivered through approved tools) shows
+  initiative while staying unimpeachable on policy.
 - **External optionality:** every rolled-out project earns an anonymized case study in this repo
   (problem → approach → controls → measured impact) — a portfolio that reads like AI Finance
   Analyst job specs. Map each project to market-legible skills: LLM orchestration with guardrails,

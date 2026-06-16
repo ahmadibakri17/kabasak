@@ -5,14 +5,17 @@ argument-hint: [what to review — paste it or point to it]
 
 Review the following artifact: $ARGUMENTS
 
-If nothing concrete was provided, ask Ahmad to paste the flow outline, script, or design doc
-first (screenshots described in words are fine).
+If nothing concrete was provided, ask Ahmad to paste the artifact first — an anonymized flow
+outline or exported definition, a script, a Copilot prompt or agent instructions, or a design doc
+(screenshots described in words are fine). Real names, balances, or IDs must be anonymized before
+they land here.
 
 Process:
 
 1. **Technical critique** by the relevant specialist (`power-platform-engineer` or
-   `python-data-engineer`; `architect` for design documents): correctness, robustness,
-   maintainability, known platform limits, scalability across 80+ entities.
+   `python-data-engineer`; `copilot-prompt-engineer` for prompts and agent instructions;
+   `architect` for design documents): correctness, robustness, maintainability, known platform
+   limits, scalability across 80+ entities.
 2. **Compliance pass** by `compliance-reviewer` — always, even for "quick looks". Their checklist
    and verdict format apply.
 3. Output, in this order:

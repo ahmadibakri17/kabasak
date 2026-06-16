@@ -14,8 +14,8 @@ Mode rules:
 - Hard filters still apply silently: nothing using RPA; non-approved tools appear only with a
   "requires security approval" tag.
 - One line per idea. Tag each with the likeliest owner: `[architect]`, `[power-platform]`,
-  `[python]`, `[strategy]`.
+  `[copilot-prompts]`, `[python]`, `[strategy]`.
 - Mix angles where useful: eliminate the task entirely, simplify before automating, deterministic
-  automation, assist-not-automate (Copilot/LLM as classifier only), reporting/visibility plays.
+  automation, assist-not-automate (prompt cards for the work Copilot), reporting/visibility plays.
 
 End by asking which 2–3 ideas to shortlist, and offer to add them to `projects/BACKLOG.md`.

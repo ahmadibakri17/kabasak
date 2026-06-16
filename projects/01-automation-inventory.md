@@ -56,6 +56,12 @@ To be filled by `/plan automation inventory` after discovery.
 |---|---|---|
 | — | not yet reviewed | — |
 
+## Deliverables & transfer log
+
+| Artifact | Location | Status |
+|---|---|---|
+| — | — | — |
+
 ## Next actions
 
 - [ ] Export the list of flows from make.powerautomate.com (My flows + Shared with me) — names and

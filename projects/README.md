@@ -10,6 +10,8 @@ questions, and status — they are what makes context survive between sessions.
 - **Status lifecycle:** `idea → discovery → design → build → pilot → rolled-out` (plus `on-hold`).
 - **End-of-session rule:** any session that touched a project updates its brief before ending —
   decisions (dated, with the why), open questions, next actions.
+- **Transfer log:** each brief tracks its artifacts in `deliverables/<NN-slug>/` and their status
+  (`built here → transferred → verified at work`).
 - **Compliance gate:** no design or build is marked final without a recorded `compliance-reviewer`
   verdict in the brief.
 - **Data hygiene:** anonymized samples only — never real entity, vendor, customer, or balance data.

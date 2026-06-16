@@ -57,6 +57,12 @@ flow hybrid.
 |---|---|---|
 | — | not yet reviewed | — |
 
+## Deliverables & transfer log
+
+| Artifact | Location | Status |
+|---|---|---|
+| — | — | — |
+
 ## Next actions
 
 - [ ] Pick the single most painful rec type as the pilot candidate.

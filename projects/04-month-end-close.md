@@ -55,6 +55,12 @@ reminders + Power BI status page, Teams-integrated variant.
 |---|---|---|
 | — | not yet reviewed | — |
 
+## Deliverables & transfer log
+
+| Artifact | Location | Status |
+|---|---|---|
+| — | — | — |
+
 ## Next actions
 
 - [ ] Capture the current close checklist (structure only, anonymized).

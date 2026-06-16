@@ -41,6 +41,14 @@ Failure modes, human-in-the-loop checkpoints, audit evidence produced.
 |---|---|---|
 | — | not yet reviewed | — |
 
+## Deliverables & transfer log
+
+One row per artifact in `deliverables/<NN-slug>/`. Status: `built here → transferred → verified at work`.
+
+| Artifact | Location | Status |
+|---|---|---|
+| | | |
+
 ## Next actions
 
 - [ ] …

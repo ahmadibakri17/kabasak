@@ -11,11 +11,13 @@ Follow the team's default workflow from CLAUDE.md, strictly in order:
    `projects/01-automation-inventory.md` for related live automations. Then ask up to five sharp
    questions (volumes, current process, data sources, actors, pain) and **wait for the answers** —
    never design on assumptions.
-2. **Options.** 2–3 approaches with honest trade-offs (licensing, limits, maintenance, risk). The
-   simplest thing that works is always option 1. Bring in `architect` for the design thinking.
+2. **Options.** 2–3 approaches with honest trade-offs (licensing, limits, maintenance, risk, and
+   transfer cost across the air gap). The simplest thing that works is always option 1. Bring in
+   `architect` for the design thinking.
 3. **Recommendation.** One option, with reasoning.
-4. **Execution plan.** Milestones, human-in-the-loop checkpoints, test strategy, rollback, and
-   what gets handed to which engineer.
+4. **Execution plan.** Milestones each tagged **[HERE]** (designed and proven in this repo on
+   mock data) or **[AT WORK]** (Ahmad executes with approved tools), human-in-the-loop
+   checkpoints, test strategy, transfer steps, rollback, and what gets handed to which engineer.
 5. **Compliance sign-off.** Send the recommended design to `compliance-reviewer` and include the
    verdict (or its conditions) in the output.
 

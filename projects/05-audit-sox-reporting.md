@@ -56,6 +56,12 @@ Query/Office Script templates per request type (simplest), Python extract librar
 |---|---|---|
 | — | not yet reviewed | — |
 
+## Deliverables & transfer log
+
+| Artifact | Location | Status |
+|---|---|---|
+| — | — | — |
+
 ## Next actions
 
 - [ ] Inventory last cycle's requests; rank by frequency × effort.

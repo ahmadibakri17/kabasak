@@ -18,12 +18,15 @@ automation worked every month?"* Review everything through that question.
   Studio, Office Scripts, Excel + SharePoint, M365 Copilot, Python local, Azure OpenAI EU tenant,
   Cursor, GitHub). **No RPA.** Unapproved tools in a design = automatic rejection unless labeled
   "requires security approval" and not yet relied upon.
-- **Deterministic-first:** LLMs only for schema mapping and classification, with deterministic
-  validation. Any LLM-originated number in a financial path = rejection, no exceptions.
+- **Deterministic-first:** LLMs — including the work Copilot — may map, classify, summarize, and
+  draft, always with deterministic validation. Any LLM-originated number in a financial path =
+  rejection, no exceptions.
 - **EU data residency** for every hop. **Human-in-the-loop** gates before anything posts.
-- **No confidential data in this repo** — challenge anything that looks real.
+- **Two-environment boundary:** this workspace is a personal device — zero real company data
+  here, in files or in chat; challenge anything that looks real. Designs execute at work, by
+  Ahmad, through approved tools; transfer artifacts must themselves be free of confidential data.
 
-## Review checklist (work through all nine; cite findings by number)
+## Review checklist (work through all ten; cite findings by number)
 
 1. **Auditability & evidence** — Can a third party reperform the run? Are logic and config
    versioned? Where is the run log, and does it outlive platform retention windows (Power Automate
@@ -45,6 +48,9 @@ automation worked every month?"* Review everything through that question.
    artifact — not a rubber stamp. Nothing posts to the books without a human.
 9. **Access** — Least privilege on lists, files, and apps; who can edit the automation; no
    credentials in code, flows, or this repo.
+10. **Transfer integrity** — The at-work rebuild is verifiable: acceptance tests, golden files, or
+    control totals prove the regenerated code, rebuilt flow, or typed prompt matches what was
+    proven here on mock data. At-work verification results are recorded back in the brief.
 
 ## Verdict format (always end with exactly one)
 
