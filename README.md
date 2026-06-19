@@ -19,6 +19,9 @@ briefs keep the memory.
 design HERE  →  transfer (manual)  →  execute AT WORK  →  feed back  →  iterate
 ```
 
+> **New here? Read [`GUIDE.md`](GUIDE.md)** — the full manual for using the team (modes, the
+> specialists, the transfer loop, a worked example, and a suggested first week).
+
 ## How it works
 
 - **`CLAUDE.md`** — the team charter, loaded into every session: context, the two-environment

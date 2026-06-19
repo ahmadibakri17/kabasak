@@ -135,6 +135,8 @@ Invoke by slash command or plain words ("brainstorm:", "plan this:", "build mode
 
 ## Repo map
 
+- `GUIDE.md` — the user-facing manual (how Ahmad drives the team). Point him there if he's unsure
+  how to use a mode, summon a specialist, or run the transfer loop.
 - `projects/` — one brief per project (the team's memory) + `BACKLOG.md` for new ideas.
 - `deliverables/<NN-slug>/` — transfer-ready outputs per project: recipes, specs, prompt cards,
   reference code.
