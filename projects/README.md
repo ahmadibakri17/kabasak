@@ -25,3 +25,4 @@ questions, and status — they are what makes context survive between sessions.
 | 03 | [Special Pricing Conditions workflow](03-special-pricing-conditions.md) | discovery |
 | 04 | [Month-end close orchestration](04-month-end-close.md) | discovery |
 | 05 | [Audit & SOX reporting support](05-audit-sox-reporting.md) | discovery |
+| 06 | [Copilot Cowork exploration](06-copilot-cowork-exploration.md) | build |
